@@ -1,4 +1,4 @@
 NLTK-Entity-Extraction
 ======================
 
-Named Entity Extraction ih python using NLTK
+Named Entity Extraction in Python using NLTK
